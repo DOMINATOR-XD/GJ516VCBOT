@@ -4,7 +4,7 @@
   "logo": "https://te.legra.ph/file/be210d0315f6d723401da.jpg",
   "description": "A SuperFast VC Player bot to play songs in Telegram Video Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/MrProgrammer72/GJ516VCBOT",
+  "repository": "https://github.com/DOMINATOR-XD/GJ516VCBOT",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
@@ -41,19 +41,19 @@
     "SUPPORT_GROUP": {
       "description": "Username of the group where users will go and disturb you, without @",
       "required": false,
-      "value": "GJ516_DISCUSS_GROUP"
+      "value": "DollxSpam_BOT"
 
     },
     "CHANNEL_UPDATES": {
       "description": "Username of the group where users will go and disturb you, without @",
       "required": false,
-      "value": "myworldGJ516"
+      "value": "Dollx_spambot"
 
     },
     "SUDO_USERS": {
       "description": "User IDs of the users who will counted as admin everywhere (if more than one separate them by space).",
       "required": true,
-      "value": "1864894033"
+      "value": ""
     },
     "START_IMG": {
       "description": "Telegraph link of the pic which you want to set as the start pic of your bot",
